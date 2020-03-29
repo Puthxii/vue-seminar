@@ -1,7 +1,7 @@
 <template>
   <navbar
     position="fixed"
-    type="danger"
+    type="white"
     menu-classes="ml-auto"
   >
    <!-- :transparent="transparent"
