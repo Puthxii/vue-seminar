@@ -69,14 +69,6 @@
               </tab-pane>
             </tabs>
           </card>
-           <card style="width: 20rem;">
-              <img slot="image" class="card-img-top" :src="imgSrc" alt="Card image cap">
-              <div>
-                <h4 class="card-title">Card title</h4>
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                <n-button type="danger">Go omewhere</n-button>
-              </div>
-            </card>
         </div>
         <div class="col-md-10 ml-auto col-xl-6 mr-auto">
           <p class="category">Tabs with Background on Card</p>
