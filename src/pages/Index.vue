@@ -68,6 +68,7 @@
     <basic-elements></basic-elements>
     <navigation></navigation>
     <tabs-section></tabs-section>
+    <cards-section></cards-section>
     <progress-pagination></progress-pagination>
     <notifications></notifications>
     <typography></typography>
@@ -108,6 +109,8 @@ import NucleoIconsSection from './components/NucleoIconsSection';
 import SignupForm from './components/SignupForm';
 import ExamplesSection from './components/ExamplesSection';
 import DownloadSection from './components/DownloadSection';
+import CardsSection from './components/Cards';
+
 
 export default {
   name: 'index',
@@ -126,6 +129,7 @@ export default {
     SignupForm,
     ExamplesSection,
     DownloadSection,
+    CardsSection
   }
 };
 </script>
